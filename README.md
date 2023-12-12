@@ -11,6 +11,7 @@ Example:
 Input:
 data: 5 3 7 12 8
 positions: 12 45 65 34 22
+
 Output:
 data: 3 5 7 8 12
 positions: 45 12 65 22 34
@@ -29,6 +30,7 @@ Example:
 Input:
 2 054785949 rajarajeswari
 00.00000934749 bhuvaneswari
+
 Output:
 fiv.onee+sev@rjrjsai
 nin.nine-six@hvnsai
@@ -46,7 +48,6 @@ Example:
 
 Input:
 8 
-8
 hyderabad delhi 10 15
 hyderabad pune 24 60
 delhi kolkata 36 56
@@ -54,6 +55,7 @@ pune kasi 4 90
 delhi chennai 16 100
 kasi manali 41 45
 chennai madhurai 8 20
+
 Output:
 hyderabad-pune-kasi-manali-kasi-pune-hyderabad-delhi-kolkata-delhi-chennai-madhurai-chennai-delhi-hyderabad
 666
