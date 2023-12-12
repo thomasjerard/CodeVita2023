@@ -33,7 +33,9 @@ Example:
 
 Input:
 
-2 054785949 rajarajeswari
+2 
+
+054785949 rajarajeswari
 
 00.00000934749 bhuvaneswari
 
